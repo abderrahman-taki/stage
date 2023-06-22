@@ -1,0 +1,80 @@
+/* style.css */
+
+/* Styles pour la div des détails du projet */
+.project-details {
+    background-color: #f2f2f2;
+    padding: 10px;
+}
+
+.project-details h4 {
+    color: #333;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* Styles pour le formulaire d'attachement */
+.attachment-form {
+    margin-top: 20px;
+}
+
+.attachment-form h4 {
+    color: #333;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.attachment-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+.attachment-table th,
+.attachment-table td {
+    padding: 8px;
+    border: 1px solid #ccc;
+}
+
+.attachment-table th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+    text-align: center;
+}
+
+.attachment-table td {
+    text-align: center;
+}
+
+.attachment-table input[type="text"],
+.attachment-table textarea {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ccc;
+}
+
+button[type="submit"] {
+    display: block;
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #337ab7;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #337ab7;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #23527c;
+}

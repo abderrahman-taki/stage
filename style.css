@@ -1,0 +1,98 @@
+/* style.css */
+
+/* Styles pour le conteneur principal */
+/* style.css */
+
+body {
+  background-image: url("image/images (55).jpg");
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: Arial, sans-serif;
+  
+
+}
+  
+  
+  /* style.css */
+
+/* style.css */
+
+/* style.css */
+
+.buttons {
+    background-image: url("image/pngtree-g20-summit-simple-business-background-image_238027.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px;
+  }
+  
+  
+  /* Reste du code CSS précédent pour le logo et les boutons */
+/* style.css */
+
+.buttons {
+    background-color: #f2f2f2;
+    padding: 20px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  
+  .buttons img {
+    width: 100px;
+  }
+  
+  .buttons .button-container {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .buttons button {
+    background-color: #eaeaea;
+    border: none;
+    padding: 10px 20px;
+    margin-left: 10px;
+  }
+  
+    
+  
+  .buttons img {
+    width: 70px;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  .buttons button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #f2f2f2;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+    justify-content: F;
+  }
+  
+  .buttons button:first-child {
+    margin-right: 20px;
+  }
+  
+  
+  .buttons button a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .comment {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .comment p {
+    font-size: 32px;
+    line-height: 5.5;
+    color: #333;
+  }
+  

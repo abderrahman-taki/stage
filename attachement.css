@@ -1,0 +1,53 @@
+/* Styles généraux */
+
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Styles pour les détails du projet */
+.project-details {
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.project-details h4 {
+    margin: 0;
+}
+
+.buttons {
+    margin-top: 10px;
+}
+
+.buttons button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.buttons button a {
+    color: white;
+    text-decoration: none;
+}
+
+/* Styles pour les liens attachement */
+.attachement-button,
+.new-attachement-button {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.attachement-button:hover,
+.new-attachement-button:hover {
+    background-color: #45a049;
+}

@@ -1,0 +1,63 @@
+/* Styles généraux */
+
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .project-details {
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .project-details h4 {
+    margin: 0;
+  }
+  
+  .attachment-list {
+    margin-top: 20px;
+  }
+  
+  .attachment-list h4 {
+    margin-bottom: 10px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  table th,
+  table td {
+    padding: 8px;
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  /* Styles spécifiques pour les cellules du tableau */
+  table th:first-child,
+  table td:first-child {
+    width: 10%;
+  }
+  
+  table th:nth-child(2),
+  table td:nth-child(2) {
+    width: 30%;
+  }
+  
+  table th:nth-child(3),
+  table td:nth-child(3) {
+    width: 10%;
+  }
+  
+  /* Ajoutez d'autres styles pour les colonnes du tableau si nécessaire */
+  
+  .attachment-list p {
+    margin: 0;
+    padding: 10px 0;
+  }
+  

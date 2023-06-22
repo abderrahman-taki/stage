@@ -1,0 +1,65 @@
+
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.devis-button,
+.nouveau-devis-button {
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+.dashboard {
+    margin-bottom: 20px;
+}
+
+.dash {
+    display: inline-block;
+}
+
+.dash button {
+    margin-right: 10px;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.devis-button,
+.nouveau-devis-button {
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+.dashboard {
+    margin-bottom: 20px;
+}
+
+.dash {
+    display: inline-block;
+}
+
+.dash button {
+    margin-right: 10px;
+}

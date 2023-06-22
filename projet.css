@@ -1,0 +1,45 @@
+/* projet.css */
+
+  
+
+.dashboard {
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #ccc;
+}
+
+.dash {
+    margin-top: 20px;
+}
+
+h4 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #337ab7;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button a {
+    color: #fff;
+    text-decoration: none;
+}
+
+button:hover {
+    background-color: #23527c;
+}
+
+.project-button {
+    margin-bottom: 10px;
+}
+
+.create-project-button {
+    margin-top: 20px;
+}
